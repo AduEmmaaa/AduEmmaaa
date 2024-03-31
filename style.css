@@ -85,8 +85,9 @@
 }
 
 #hero {
-  background-image: url(images/background.jpg);
-  background-position: bottom 1px right 1px;
+  background-image: url(images/firstshoes.jpg);
+  /* background-position: bottom 1px right 1px; */
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
