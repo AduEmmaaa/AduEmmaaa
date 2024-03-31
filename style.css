@@ -359,6 +359,8 @@ h4 {
   }
   #smallbox {
     margin: 4px;
+    display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
   }
 
