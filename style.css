@@ -85,7 +85,12 @@
 }
 
 #hero {
-  background-image: url(images/firstshoes.jpg);
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.548),
+      rgba(0, 0, 0, 0.082)
+    ),
+    url(images/firstshoes.jpg);
   /* background-position: bottom 1px right 1px; */
   background-position: center;
   background-repeat: no-repeat;
@@ -336,7 +341,7 @@ h4 {
   #shoplist li {
     padding: 10px;
   }
-  #hero {
+  /* #hero {
     height: 60vh;
     padding: 0 5px;
     display: flex;
@@ -344,7 +349,7 @@ h4 {
     flex-direction: column;
     justify-content: flex-start;
     padding-top: 2.5rem;
-  }
+  } */
 
   #discount h1 {
     font-weight: 400;
