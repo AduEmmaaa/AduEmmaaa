@@ -87,10 +87,10 @@
 #hero {
   background-image: linear-gradient(
       to top,
-      rgba(0, 0, 0, 0.548),
+      rgba(0, 0, 0, 0.911),
       rgba(0, 0, 0, 0.082)
     ),
-    url(images/firstshoes.jpg);
+    url(images/sn3.webp);
   /* background-position: bottom 1px right 1px; */
   background-position: center;
   background-repeat: no-repeat;
