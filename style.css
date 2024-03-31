@@ -91,8 +91,7 @@
       rgba(0, 0, 0, 0.082)
     ),
     url(images/firstshoes.jpg);
-  /* background-position: bottom 1px right 1px; */
-  background-position: center;
+  background-position: bottom 1px right 1px;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
